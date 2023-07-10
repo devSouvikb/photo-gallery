@@ -53,12 +53,12 @@ p {
   background-color: #222222;
   background-blend-mode: hard-light;
   cursor: pointer;
+  transition: 0.8s ease-in-out;
 }
 
 .img-box:hover {
   background-color: #999999;
   background-position: center;
-  transition: 1s ease-in-out;
 }
 
 .col-span-2 {
